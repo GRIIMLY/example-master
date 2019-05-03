@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sgd-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jhon.sanchez
+Implementation-Vendor-Id: co.com.ud.rest
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/example-master/sgd-rest
+Created-By: Maven Integration for Eclipse
+
