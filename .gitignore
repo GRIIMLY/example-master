@@ -38,9 +38,9 @@ example-repository/.classpath*
 example-repository/*.project
 example-repository/*.settings/*
 
-example-business/.classpath*
-example-business/*.project
-example-business/*.settings/*
+example-bussines/.classpath*
+example-bussines/*.project
+example-bussines/*.settings/*
 
 example-rest/.classpath*
 example-rest/*.project
