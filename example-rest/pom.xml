@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>co.com.ud.rest</groupId>
-	<artifactId>sgd-rest</artifactId>
+	<artifactId>example-rest</artifactId>
 	<packaging>war</packaging>
 	<dependencies>
 		<dependency>
