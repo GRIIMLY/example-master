@@ -38,6 +38,10 @@ example-repository/.classpath*
 example-repository/*.project
 example-repository/*.settings/*
 
+example-business/.classpath*
+example-business/*.project
+example-business/*.settings/*
+
 example-rest/.classpath*
 example-rest/*.project
 example-rest/*.settings/*
